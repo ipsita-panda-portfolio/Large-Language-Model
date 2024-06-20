@@ -27,5 +27,17 @@ the parameters and then you can talk to the language model.
 
 <img width="340" alt="image" src="https://github.com/ipsita-panda-portfolio/Large-Language-Model/assets/172842419/96d83b09-dc78-461b-a6aa-231541410b5b">
 
+Multi Modality : Talking to GPT , Generating and seeing images.
+
+<img width="347" alt="image" src="https://github.com/ipsita-panda-portfolio/Large-Language-Model/assets/172842419/cf86a657-50b7-4a29-8b7a-a837a5a64324">
+
+<img width="308" alt="image" src="https://github.com/ipsita-panda-portfolio/Large-Language-Model/assets/172842419/6c8ffce8-b265-48e2-bc79-aff20afb59fe">
+
+<img width="343" alt="image" src="https://github.com/ipsita-panda-portfolio/Large-Language-Model/assets/172842419/5f8a5776-3c74-4a60-a7fc-fd0976ec4153">
+
+<img width="386" alt="image" src="https://github.com/ipsita-panda-portfolio/Large-Language-Model/assets/172842419/d7fc6b57-5015-492a-9138-02cf0eccef2c">
+
+
+
 
 
