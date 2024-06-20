@@ -37,6 +37,9 @@ Multi Modality : Talking to GPT , Generating and seeing images.
 
 <img width="386" alt="image" src="https://github.com/ipsita-panda-portfolio/Large-Language-Model/assets/172842419/d7fc6b57-5015-492a-9138-02cf0eccef2c">
 
+<img width="384" alt="image" src="https://github.com/ipsita-panda-portfolio/Large-Language-Model/assets/172842419/78311f1a-b05d-4f76-8d5c-80a5ad638652">
+
+
 
 
 
